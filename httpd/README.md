@@ -11,5 +11,5 @@ docker run -dit --name vidhya-web -p 8080:80 -v /Users/vchidamb/pet_projects/web
 
 ##### Okay, you can ignore this - this refers to the docker instance # to reuse next time
 
-* docker start 5a1
+* docker start ea9
 
