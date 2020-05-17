@@ -9,16 +9,11 @@ docker run -dit --name vidhya-web -p 8080:80 -v /Users/vchidamb/Softwares/pet_pr
 
 * docker ps (Observe webserver by name vidhya-web is now started)
 
-##### Okay, you can ignore this - this refers to the docker instance # to reuse next time
-
-* docker start ea9
 
 ### Bootstrap template
 
 #### Credits bootstrap template - StartBootstrap.com
 
-I wish i could w
-While i lack artistic eye required for the presentation layer, what i show in this website is 
-that I can integrate the digital assets and integrate it with the backend.
+My goal is to first master javascript stack, then the UX/UI, so reusing opensource CSS assets.
 
 * startbootstrap.com (yes, the first google result)
