@@ -19,3 +19,6 @@ But, i hope to create enough code snippets, to use as an interview icebreaker.
 AWS in short is a hosting service, where we will configure our own web server or VM, or servers or 
 use the managed services provided by AWS.
 
+## HTML practice
+
+HTML and CSS skill refresh. Refer the index @ [HTML-CSS refresher](html_practice/README.md)

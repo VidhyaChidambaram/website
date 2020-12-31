@@ -12,8 +12,4 @@ docker run -dit --name vidhya-web -p 8080:80 -v /Users/vchidamb/Softwares/pet_pr
 
 ### Bootstrap template
 
-#### Credits bootstrap template - StartBootstrap.com
-
-My goal is to first master javascript stack, then the UX/UI, so reusing opensource CSS assets.
-
-* startbootstrap.com (yes, the first google result)
+* Use any from startbootstrap.com (yes, the first google result)

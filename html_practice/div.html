@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Div Tag practice</title>
+
+  <style>
+
+    .normal {
+      font-size: 18px;
+    }
+    .large {
+      font-size: 28px;
+      font-family: verdana; 
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    .purplebox {
+      background-color: #B404AE;
+      width: 200px;
+      height: 200px;
+      float: left;
+    }
+
+    .greenbox {
+      background-color: #295715;
+      width: 300px;
+      height: 100px;
+      float: right;
+    }
+
+    .underline {
+      text-decoration: underline;
+    }
+
+    .float-left {
+      float: left;
+    }
+
+    .float-right {
+      float: right;
+    }
+
+    .clear {
+      clear: both;
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="purplebox">
+    
+      <p class="large"> This is some text </p>
+  </div>
+
+
+  <div class="greenbox">
+    
+      <p class="bold"> This is some text </p>
+  </div>
+
+    <div class="purplebox">
+    
+      <p class="large"> This is some text </p>
+  </div>
+
+  <p class="float-right"> The third <span class="underline large bold"> word </span> in this paragraph is underlined, floated right </p>
+  <br/>
+  <br/>
+  <p class="float-left"> The third <span class="underline large bold"> word </span> in this paragraph is underlined, floated left </p>
+
+      <div class="clear">
+    
+      <p class="normal"> This is some text with all formatting cleared</p>
+  </div>
+</body>
+</html>
